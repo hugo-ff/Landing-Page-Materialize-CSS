@@ -2,7 +2,7 @@
 
 _Este proyecto se trata de un ejemplo de portfolio para desarrollador web que consta de una Landing-Page maquetada usando Materialize CSS con el objetivo de conocer a fondo el funcionamiento de este framework._
 
-_Puede ver una demo en vivo haciendo [click aquí](https://hugo-ff.github.io/Landing-Page-Materialize-CSS/index.html)_
+_Puede ver una demo en vivo haciendo [click aquí](https://hugo-ff.github.io/Landing-Page-Materialize-CSS/)_
 
 ## Construido con 🛠️
 
